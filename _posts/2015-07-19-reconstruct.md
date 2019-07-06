@@ -10,6 +10,8 @@ tags:
     - 博客测试
 ---
 
+翻看大学时代的一个本子，记满了当年的书摘，其中第一段摘抄就是上面的内容。再次重读，想起了这张拍于琅勃拉邦的照片。当时是在浦西山顶等日落，余晖正好照亮了一位老人的白发，我忍不住拍下他的背影。后来虽然拍了许多落日的照片，回头再看却还是最喜欢这一张。
+
 ~~~
     光辉曾经那么耀眼
 
@@ -27,27 +29,6 @@ tags:
 
     （颂歌：《永生的颂诗》，第十节）
 ~~~
-
-~~~
-    What though the radience which was once so bright
-
-    Be now for ever taken from my sight,
-
-          Though nothing can bring back the hour
-
-    Of splendour in the grass, of glory in the flower;
-
-          We will grieve not, rather find
-
-          Strength in what remains behind            
- 
-                      —— William Wordsworth 
-
-    ( Intimations of reconstruct, X )
-~~~
-
-
-翻看大学时代的一个本子，记满了当年的书摘，其中第一段摘抄就是上面的内容。再次重读，想起了这张拍于琅勃拉邦的照片。当时是在浦西山顶等日落，余晖正好照亮了一位老人的白发，我忍不住拍下他的背影。后来虽然拍了许多落日的照片，回头再看却还是最喜欢这一张。
 
 迟暮之年的旅行或许更纯粹，因为年轻时常惦念着要完成的，此时都已不再迫切，没有什么要通过旅行去证明或考验，他们只是对这世界仍有眷恋，想看得更清楚些，离得更近些。
 
