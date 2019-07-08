@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: ziwendong@outlook.com
 description: "大海里的一滴水，也是咸的。"
 keyword: "ziwendong,子文东，子文东的博客"
-url: "https://ziwendong.github.io"          # your host, for absolute URL
+url: "https://ziwendong.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
