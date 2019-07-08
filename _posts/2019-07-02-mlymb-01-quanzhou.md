@@ -42,7 +42,7 @@ tags:
 
 <iframe src="//player.bilibili.com/player.html?aid=29545966&cid=51377328&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-* 开元寺庙会上的歌手，观众们一边吃面一边在听。
+* [开元寺庙会上的歌手，观众们一边吃面一边在听。](https://www.bilibili.com/video/av29545966?zw)
 
 如果不是周末也不是节日，开元寺就比较安静了，我常常从北门进去，一路不停，在第一个门洞右拐，再沿着大雄宝殿旁的长廊继续往下走，就能从正门穿出去走上西街。不知道是不是因为走东侧的这条长廊次数比较多，总觉得这一侧走起来风景比西侧更好些，但或许是因为寺里喂的鸽子们总在这一侧聚集吧。
 
