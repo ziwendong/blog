@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  广播集|推荐一款iPad内的多格式兼容阅读工具TotalReader
+title:  广播集 | 推荐一款iPad内的多格式兼容阅读工具TotalReader
 subtitle: 包含高质量的文字转语音及基于WebDav的网盘访问。
 date:       2019-07-03
 author:     子文东
