@@ -4,7 +4,7 @@ title:  广播集
 subtitle: 在网络与现实终于融合的当下，作为亲历过前网络时代的人，会怎样看待这样的变化？（另记一个奇怪的梦）
 date:       2019-07-06
 author:     子文东
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - 豆瓣广播

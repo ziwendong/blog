@@ -4,7 +4,7 @@ title:  广播集
 subtitle: 原创作者还能够指望国内互联网平台帮自己维护作品的所有权吗？我们不断面对这让人颓丧的现实，但别以为这个世界处处如此，也别说所有人都得接受憋屈的活着。
 date:       2019-07-07
 author:     子文东
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - 豆瓣广播
