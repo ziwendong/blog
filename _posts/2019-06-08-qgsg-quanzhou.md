@@ -4,7 +4,7 @@ title:  习惯与庆典：泉港沙格村的端午龙舟赛
 subtitle: 当代价难以衡量，利益却近在眼前，人们被迫习惯了忍耐，而生活在继续，永远不乏狂欢庆典。
 date:       2019-06-08
 author:     子文东
-header-img: img\190608-qgsg\00.jpg
+header-img: 
 catalog: true
 tags:
     - 摄影
