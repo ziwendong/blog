@@ -76,7 +76,7 @@ tags:
 
 友邻@開膛手傑克 在[他的广播](https://www.douban.com/people/baijieke/status/2258613782/)中补充了更多。
 
-![](\img\190704-mndbhz\12.jpg)
+![](\img\190704-mndbhz\12-2.jpg)
 
 注意图4，萧红故居的炕柜也是花砖装饰的。 
 
