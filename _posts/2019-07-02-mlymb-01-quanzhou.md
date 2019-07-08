@@ -4,7 +4,7 @@ title:  脉络与脉搏——在脚步中聆听泉州古城（一）| 过客集
 subtitle: 我终于决定动笔，因为有些东西已经无可挽回地消失了。
 date:  2019-07-02
 author:  子文东
-header-img: img/190608-qgsg.jpg
+header-img: img/190702-mlymb-01-quanzhou.jpg
 catalog: true
 tags:
     - 泉州
