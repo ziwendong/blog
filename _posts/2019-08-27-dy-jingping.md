@@ -2,7 +2,7 @@
 layout: post
 title: 路客中国 | 湘桂黔地区传统村落调研 第二站：荆坪村
 subtitle: 作为去怀化周边寻访期间住宿休憩之处，荆坪村会是一个不错的选择。
-date:  2019-09-11
+date:  2019-09-14
 author: 子文东
 header-img: img/190827-dy-jingping.jpg
 catalog: true
